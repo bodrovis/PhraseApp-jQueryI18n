@@ -1,0 +1,13 @@
+{
+  "@metadata": {
+    "authors": [
+      "Ilya"
+    ]
+  },
+  "app-title": "App's title",
+  "welcome": "Welcoming message. Should be friendly.",
+  "letter": "Notification about letter from someone. Should be informal.",
+  "letters": "Total letters count.",
+  "copyright": "The name of the site (transliterated) and copyrights.",
+  "about": "Link to About Us page. The URL should contain the proper locale."
+}

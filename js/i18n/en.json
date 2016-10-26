@@ -1,0 +1,15 @@
+{
+  "@metadata": {
+    "authors": [
+      "Ilya"
+    ],
+    "last-updated": "2016-10-25",
+    "locale": "en"
+  },
+  "app-title": "Example Application",
+  "welcome": "Welcome, $1!",
+  "letter": "A letter from $1! {{GENDER:$2|He|She}} says:",
+  "letters": "You have $1 {{PLURAL:$1|letter|letters}}",
+  "copyright": "{{SITENAME}}. All rights reserved.",
+  "about": "{{link:About {{SITENAME}}|localhost/about?locale=en}}"
+}

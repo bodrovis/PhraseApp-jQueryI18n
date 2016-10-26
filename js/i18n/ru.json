@@ -1,0 +1,15 @@
+{
+  "@metadata": {
+    "authors": [
+      "Ilya"
+    ],
+    "last-updated": "2016-10-25",
+    "locale": "ru"
+  },
+  "app-title": "Тестовое приложение",
+  "welcome": "Добро пожаловать, $1!",
+  "letter": "Письмо от $1! {{GENDER:$2|Он|Она}} говорит:",
+  "letters": "У вас $1 {{PLURAL:$1|письмо|писем|письма}}",
+  "copyright": "{{SITENAME}}. All rights reserved.",
+  "about": "{{link:{{SITENAME}}|localhost/about?locale=ru}}"
+}
